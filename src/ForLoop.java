@@ -2,7 +2,7 @@ public class ForLoop {
     public static void main(String[] args){
         int[] prices = {10, 9, 7, 13, 11};
 
-        System.out.println("Length of array is " + prices.length);
+        System.out.println("Length of array is fafa " + prices.length);
         System.out.println("Average for array is " + calculateAverage(prices));
     }
 
