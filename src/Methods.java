@@ -17,7 +17,7 @@ public class Methods {
             System.out.println("Second average is greater than first average");
         }
     }
-    //definiowanie metody
+    /**calculate Average method*/
     public static float calculateAverage(int firstPrice, int secondPrice) {
         return (float) (firstPrice + secondPrice) / 2;
     }
