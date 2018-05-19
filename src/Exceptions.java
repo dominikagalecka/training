@@ -2,6 +2,7 @@ public class Exceptions {
     public static void main (String[] args){
         String firstFormText = "12a";
         String secondFormmText = "That string definitely will not be parsed to integer";
+
         try{
             int productPrice1=Integer.valueOf(firstFormText);
             int productPrice2=Integer.valueOf(secondFormmText);
